@@ -1,4 +1,2 @@
 # keda6670
-my personal repository!
-
-well this is fun
+UHK student, learning HTML/CSS & hoping to eventually progress to C++/C#, whatever will make me better understand game development process
